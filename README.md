@@ -24,4 +24,5 @@ Interactive Excel dashboard for data analysis and visualization.
 
 ## Connect with me
 
-LinkedIn: [https://www.linkedin.com/in/abir-chouchene-699616284/]
+LinkedIn: [https://www.linkedin.com/in/abir-chouchene-699616284/]     
+
