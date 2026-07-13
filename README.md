@@ -24,6 +24,5 @@ Interactive Excel dashboard for data analysis and visualization.
 
 ## Connect with me
 
-Email: [aabirchouchen@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/abir-chouchene-699616284/]     
-
+📧 Email: aabirchouchen@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/abir-chouchene-699616284/
