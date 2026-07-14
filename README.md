@@ -7,12 +7,17 @@ I enjoy transforming data into meaningful insights to enable data-driven decisio
 
 ## Skills
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Data Visualization
-- Machine Learning
+**📊 Data Analysis & Visualization**  
+Data Cleaning • Excel • Power BI • Tableau • Dashboarding • Reporting • KPI Analysis
+
+**💻 Data Science & Programming**  
+Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+
+**🗄️ Databases**  
+MySQL • PostgreSQL • MongoDB
+
+**🧠 Analytics & AI**  
+Business Analysis • Machine Learning • Generative AI • Prompt Engineering
 
 ## Projects
 
